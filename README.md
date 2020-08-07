@@ -16,3 +16,7 @@
 **Ejecutar server local**
 
 `npm start`
+
+**Generar compilado**
+
+`npm run build`
