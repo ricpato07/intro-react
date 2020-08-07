@@ -20,3 +20,11 @@
 **Generar compilado**
 
 `npm run build`
+
+**Servidor http**
+
+`npm install --global http-server`
+
+Ubicarse en la carpeta build del proyecto y ejecutar
+
+`http-server -o`
