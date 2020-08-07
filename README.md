@@ -4,6 +4,7 @@
 - Auto Close Tag
 
 # Instrucciones para consola
-- Crear un nuevo proyecto
+
+**Crear un nuevo proyecto**
 
 `npx create-react-app my-app`
