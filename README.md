@@ -8,3 +8,11 @@
 **Crear un nuevo proyecto**
 
 `npx create-react-app my-app`
+
+**Instalar dependencias**
+
+`npm install`
+
+**Ejecutar server local**
+
+`npm start`
